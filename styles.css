@@ -4,12 +4,15 @@
 }
 
 
-h1 {
+body {
+	color: #00778B;
+	background: #201747;
 	font-family: 'AldotheApache';
 	letter-spacing: 2px;
 }
 
-body {
+button {
+	font-family: 'AldotheApache';
+	letter-spacing: 2px;
 	color: #00778B;
-	background: #201747;
 }
