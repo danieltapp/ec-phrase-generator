@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'AldotheApache' ;
+	src: url('AldotheApache.ttf') format('truetype');
+}
+
+
+h1 {
+	font-family: 'AldotheApache';
+	letter-spacing: 2px;
+}
+
+body {
+	color: #00778B;
+	background: #201747;
+}
