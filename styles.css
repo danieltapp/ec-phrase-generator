@@ -16,5 +16,25 @@ button {
 	font-family: 'AldotheApache';
 	letter-spacing: 2px;
 	color: #00778B;
+	transition-duration: .5s;
 }
 
+button:hover {
+	color: #00778B;
+	background: #00778B;
+}
+
+footer {
+	font-size: 1.25rem;
+}
+
+#quoteDisplay {
+	font-size: 2rem;			
+}
+.vertical-center {
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 100vh; /* These two lines are counted as one :-)       */
+
+  display: flex;
+  align-items: center;
+}

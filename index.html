@@ -2,18 +2,31 @@
 <html>
 <head>
 	<title>How Do Ya Dooooo?!</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 	<link rel="stylesheet" href="styles.css">
 </head>
 <body>
-
-	<img src="https://i.ytimg.com/vi/mOeZ564dOnE/hqdefault.jpg" alt="Eric Collins">
-
-	<div id="quoteDisplay">
-		<!-- This is where the quote will be displayed -->
+  	<div class="container">
+  				<h1 class="text-center jumbotron">The Eric Collins Random Quote Generator</h1>
+  				<div class="row">
+  					<div class="co-6">
+  						<figure class="figure">
+							<img src="https://i.ytimg.com/vi/mOeZ564dOnE/hqdefault.jpg" class="rounded mx-auto d-block img-fluid rounded" alt="Eric Collins">
+						</figure>
+					</div>
+					<div class="col-6">
+				<div id="quoteDisplay">
+					<!-- This is where the quote will be displayed -->
+				</div>
+			</div>
+				<div class="row">
+				<button type="button" class="btn btn-md" onclick="newQuote()">How do ya do?!</button>
+				<script type="text/javascript" src="app.js"></script>
+			</div>
 	</div>
-	
-	<button onclick="newQuote()">How do ya do?!</button>
 
-	<script type="text/javascript" src="app.js"></script>
+	<footer class="footer">
+		<p>Made by <a target="_blank" href="https://github.com/danieltapp">DT</a><p>
+	</footer>
 </body>
 </html>
