@@ -8,9 +8,19 @@ body {
 	color: #00778B;
 	background: #201747;
 	font-family: 'AldotheApache';
-	font-weight: 500;
+	text-transform: uppercase;
 	letter-spacing: 2px;
 }
+
+.jumbotron {
+	background-image: url(https://www.xmple.com/wallpaper/beehive-white-green-honeycomb-hexagon-1920x1080-c2-ffffff-008080-l2-8-125-a-55-f-5.svg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: #00C5CD;
+	font-weight: 900;
+	text-shadow: 3px 3px #201747;
+}
+
 
 button {
 	font-family: 'AldotheApache';
