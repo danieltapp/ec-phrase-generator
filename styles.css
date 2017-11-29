@@ -27,6 +27,7 @@ button {
 	letter-spacing: 2px;
 	color: #00778B;
 	transition-duration: .5s;
+	margin-top: 25px;
 }
 
 button:hover {
@@ -39,7 +40,8 @@ footer {
 }
 
 #quoteDisplay {
-	font-size: 2rem;			
+	font-size: 2rem;
+	margin-top: 15px;			
 }
 .vertical-center {
   min-height: 100%;  /* Fallback for browsers do NOT support vh unit */

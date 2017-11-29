@@ -34,7 +34,7 @@ var quotes = [
 ' with the little DIPSY DOOOOO!',
 '  with the SLAM!',
 '! How do you dooooooo?!?!',
-' with the gorgeous, pull up jumper! He has been an assasin from the mid-range!',
+' with the gorgeous, pull up jumper! He has been an assassin from the mid-range!',
 ' is tougher than a two dollar steak!',
 ' with a pair of beauties from the charity stripe.',
 ' with the marvelous 3!',
@@ -42,13 +42,13 @@ var quotes = [
 ' takes it right to Goliath and scores!',
 ', with the wingspan of a condor!',
 ' is the truth!',
-', please sir can I have some more!',
+', please sir can I have some more?!',
 ' is putting on a clinic tonight!',
 ", we're not worthy!!!!",
 "! by the beard of zeus!?!?!",
 '! Are you kidding me? What splendor!',
 '!!! He who pays the piper calls the tune!',
-"! Put on a raincoast, because he's making it rain in here tonight!",
+"! Put on a raincoat, because he's making it rain in here tonight!",
 '!!! Are you kidding me?!',
 ', how great thou art!',
 ' can do no wrong!',
@@ -66,7 +66,7 @@ var quotes = [
 ' has the magic touch. He could teach David Copperfield a thing or two.',
 " is getting a hero's welcome.",
 '!!!!!!!!!!!!!!!!!!!!!!!!!!',
-'!!! Dunk, dunk dooce!',
+'!!! Dunk, dunk deuce!',
 ". It's just not fair what this man is capable of."
 ]
 
