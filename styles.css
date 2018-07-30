@@ -36,12 +36,14 @@ button:hover {
 }
 
 footer {
+	margin-top: 3.2rem;
 	font-size: 1.25rem;
 }
 
 #quoteDisplay {
 	font-size: 2rem;
-	margin-top: 15px;			
+	margin-top: 15px;	
+	text-align: center;		
 }
 .vertical-center {
   min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
@@ -49,4 +51,10 @@ footer {
 
   display: flex;
   align-items: center;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
