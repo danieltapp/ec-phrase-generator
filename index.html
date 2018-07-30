@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>How Do Ya Dooooo?!</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 	<link rel="stylesheet" href="styles.css">
@@ -11,22 +14,27 @@
   				<div class="row">
   					<div class="co-6 float-left">
   						<figure class="figure">
-							<img src="https://i.ytimg.com/vi/mOeZ564dOnE/hqdefault.jpg" class="rounded mx-auto d-block img-fluid rounded center-block" alt="Eric Collins">
+							<img src="hqdefault.jpg" class="rounded mx-auto d-block img-fluid rounded center-block" alt="Eric Collins">
 						</figure>
 					</div>
 					<div class="col-6 text-center">
-				<div id="quoteDisplay">
+				<div class="fart" id="quoteDisplay">
 					<!-- This is where the quote will be displayed -->
 				</div>
 			</div>
 				<div class="row">
 				<button type="button" class="btn btn-md center-block" onclick="newQuote()">How do ya do?!</button>
-				<script type="text/javascript" src="app.js"></script>
+				<a class="twitter-share-button" href="https://twitter.com/intent/tweet/?text=" data-size="large" target="_blank">
+					<button type="button" class="btn btn-primary center-block">Tweet this!</button>
+				</a>
 			</div>
 	</div>
 
 	<footer class="footer">
 		<p>Made by <a target="_blank" href="https://github.com/danieltapp">DT</a><p>
 	</footer>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Sharrre/2.0.1/js/platform/twitter.js"></script>
+	<script type="text/javascript" src="app.js"></script>
 </body>
 </html>
