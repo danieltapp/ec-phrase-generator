@@ -13,7 +13,7 @@ body {
 }
 
 .jumbotron {
-	background-image: url(https://www.xmple.com/wallpaper/beehive-white-green-honeycomb-hexagon-1920x1080-c2-ffffff-008080-l2-8-125-a-55-f-5.svg);
+	background-image: url('beehive-white-green-honeycomb-hexagon-1920x1080-c2-ffffff-008080-l2-8-125-a-55-f-5.svg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	color: #00C5CD;
@@ -30,10 +30,10 @@ button {
 	margin-top: 25px;
 }
 
-button:hover {
+/* button:hover {
 	color: #00778B;
 	background: #00778B;
-}
+} */
 
 footer {
 	margin-top: 3.2rem;

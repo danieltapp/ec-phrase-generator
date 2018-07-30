@@ -73,7 +73,7 @@ const players = [
 // ]
 
 const madeBy =
-	" - Made by The Eric Collins Random Quote Generator, https://codepen.io/danieltapp/full/eyQPML/";
+  " - Made by The Eric Collins Random Quote Generator, https://pedantic-booth-7a4545.netlify.com/";
 
 const quoteUrl = 'https://quotes.djones.co/api/collection/eric-collins-quotes/random';
 
